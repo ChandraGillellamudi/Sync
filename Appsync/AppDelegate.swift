@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  AppSync
+//  Appsync
 //
 //  Created by Pandu on 4/19/18.
 //  Copyright © 2018 ChandraSekhar Gillellamudi. All rights reserved.

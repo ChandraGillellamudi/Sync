@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_AppSyncVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_AppSyncVersionString[];
+FOUNDATION_EXPORT double Pods_AppsyncVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_AppsyncVersionString[];
 

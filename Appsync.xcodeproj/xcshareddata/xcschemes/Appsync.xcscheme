@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "937C7C4E208966AB000899D3"
-               BuildableName = "AppSync.app"
-               BlueprintName = "AppSync"
-               ReferencedContainer = "container:AppSync.xcodeproj">
+               BlueprintIdentifier = "937C7C8A2089692E000899D3"
+               BuildableName = "Appsync.app"
+               BlueprintName = "Appsync"
+               ReferencedContainer = "container:Appsync.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "937C7C4E208966AB000899D3"
-            BuildableName = "AppSync.app"
-            BlueprintName = "AppSync"
-            ReferencedContainer = "container:AppSync.xcodeproj">
+            BlueprintIdentifier = "937C7C8A2089692E000899D3"
+            BuildableName = "Appsync.app"
+            BlueprintName = "Appsync"
+            ReferencedContainer = "container:Appsync.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "937C7C4E208966AB000899D3"
-            BuildableName = "AppSync.app"
-            BlueprintName = "AppSync"
-            ReferencedContainer = "container:AppSync.xcodeproj">
+            BlueprintIdentifier = "937C7C8A2089692E000899D3"
+            BuildableName = "Appsync.app"
+            BlueprintName = "Appsync"
+            ReferencedContainer = "container:Appsync.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "937C7C4E208966AB000899D3"
-            BuildableName = "AppSync.app"
-            BlueprintName = "AppSync"
-            ReferencedContainer = "container:AppSync.xcodeproj">
+            BlueprintIdentifier = "937C7C8A2089692E000899D3"
+            BuildableName = "Appsync.app"
+            BlueprintName = "Appsync"
+            ReferencedContainer = "container:Appsync.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
